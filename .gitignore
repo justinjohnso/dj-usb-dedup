@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+runs/
+PLAN.md
+.archive/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+manifest.jsonl
